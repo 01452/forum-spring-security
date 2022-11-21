@@ -1,0 +1,9 @@
+{
+	"properties": [
+		{
+			"name": "password.period",
+			"type": "java.lang.Long",
+			"description": "Password validity period"
+		}
+	]
+}
